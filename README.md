@@ -29,6 +29,7 @@ Data Modeling & ETL – Structuring and transforming data for analysis
 
 
 📌 **Results & Insights**
+
 Top-Performing Regions: States like Maharashtra and Karnataka generated the highest sales, while some regions showed potential for targeted marketing.
 
 Category Contribution: Office Supplies and Technology dominated sales volume, with Furniture generating steady revenue but lower profit margins.
