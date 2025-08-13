@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Performance-Analysis-Dashboard-in-Power-BI
+# E-Commerce Sales Performance Analysis Dashboard in Power-BI
 Interactive Power BI dashboard for E-commerce sales analysis, featuring state-wise trends, category insights, payment mode breakdown, and profit tracking using advanced visualizations and DAX calculations.
 
 This project presents a fully interactive Power BI dashboard that analyzes the sales performance of an E-commerce store. The dashboard delivers data-driven insights on sales distribution across states, product categories, payment modes, and customer segments. It also tracks key performance indicators such as Total Sales Amount, Profit, Quantity Sold, and Average Order Value (AOV), helping stakeholders make informed business decisions.
