@@ -5,7 +5,8 @@ This project presents a fully interactive Power BI dashboard that analyzes the s
 
 By using dynamic filters, slicers, and drill-down features, users can explore the data from different perspectives—such as quarter-wise or state-wise performance. The dashboard integrates multiple datasets, undergoes data cleaning and transformation, and leverages DAX calculations to create accurate and actionable metrics.
 
-**Key Features**
+🚀 **Key Features**
+
 State-wise & City-wise Sales Analysis – Identify top-performing locations.
 
 Category & Payment Mode Breakdown – Understand customer purchase patterns.
@@ -16,7 +17,8 @@ Advanced Visualizations – Bar charts, donut charts, pie charts, maps, and clus
 
 Interactive Controls – Filters and slicers for deeper data exploration.
 
-**Tech Stack & Tools**
+🛠 **Tech Stack & Tools**
+
 Power BI – Dashboard creation & visualization
 
 Microsoft Excel – Data source & preprocessing
@@ -26,7 +28,7 @@ DAX (Data Analysis Expressions) – Custom calculations & KPIs
 Data Modeling & ETL – Structuring and transforming data for analysis
 
 
-**Results & Insights**
+📌 **Results & Insights**
 Top-Performing Regions: States like Maharashtra and Karnataka generated the highest sales, while some regions showed potential for targeted marketing.
 
 Category Contribution: Office Supplies and Technology dominated sales volume, with Furniture generating steady revenue but lower profit margins.
