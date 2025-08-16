@@ -37,3 +37,8 @@ Category Contribution: Office Supplies and Technology dominated sales volume, wi
 Customer Purchase Behavior: Majority of transactions were completed via COD and Online Payments, with seasonal spikes during Q3.
 
 Profitability Trends: Certain sub-categories like Copiers and Phones had the highest profit margins, whereas Tables showed losses despite high sales volume.
+
+
+## 📸 Screenshot
+![Dashboard Preview](dashboard.png)
+
