@@ -39,6 +39,8 @@ Customer Purchase Behavior: Majority of transactions were completed via COD and 
 Profitability Trends: Certain sub-categories like Copiers and Phones had the highest profit margins, whereas Tables showed losses despite high sales volume.
 
 
-## 📸 Screenshot
-![Dashboard Preview](dashboard.png)
+## 📷 Screenshot
+
+![Dashboard Preview](Dashboard.png)
+
 
