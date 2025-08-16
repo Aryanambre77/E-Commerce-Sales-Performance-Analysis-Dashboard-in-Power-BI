@@ -5,6 +5,12 @@ This project presents a fully interactive Power BI dashboard that analyzes the s
 
 By using dynamic filters, slicers, and drill-down features, users can explore the data from different perspectives—such as quarter-wise or state-wise performance. The dashboard integrates multiple datasets, undergoes data cleaning and transformation, and leverages DAX calculations to create accurate and actionable metrics.
 
+
+## 📷 Screenshot
+
+![Dashboard Preview](Dashboard.png)
+
+
 ## 🚀 **Key Features**
 
 State-wise & City-wise Sales Analysis – Identify top-performing locations.
@@ -37,10 +43,3 @@ Category Contribution: Office Supplies and Technology dominated sales volume, wi
 Customer Purchase Behavior: Majority of transactions were completed via COD and Online Payments, with seasonal spikes during Q3.
 
 Profitability Trends: Certain sub-categories like Copiers and Phones had the highest profit margins, whereas Tables showed losses despite high sales volume.
-
-
-## 📷 Screenshot
-
-![Dashboard Preview](Dashboard.png)
-
-
